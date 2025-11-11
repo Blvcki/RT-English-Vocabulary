@@ -30,7 +30,7 @@ to whisper : chuchoter
 to whisper : murmurer
 softly : doucement
 to blame : accuser
-to blame : rendre responsable
+to blame : rendre responsable 
 to spin / spun / spun : tourner
 to spin / spun / spun : tournoyer
 till : jusqu'à
@@ -55,7 +55,7 @@ a flurry : une rafale
 a claw : une griffe
 to disembowel : éventrer
 crunchy : croustillant
-generally : généralement
+generally : généralement 
 usually : habituellement
 repeatedly : de façon répétée
 to dare : oser
@@ -77,7 +77,7 @@ to print : imprimer
 to get killed : se faire tuer
 angry : en colère
 a scream : un cri
-a voice : une voix
+a voice : une voix 
 a sleepless night : une nuit blanche
 it is no good : cela ne sert à rien
 it is not worth : cela ne vaut pas la peine
@@ -100,7 +100,7 @@ so many : tellement
 still : encore
 hate : la haine
 amidst : parmi
-to seek the truth : chercher la vérité
+to seek the truth : chercher la vérité 
 a blinder : une oeillère
 speechless : sans voix
 to remove : ôter
@@ -131,7 +131,7 @@ quite : plutôt
 bulky : encombrant
 bulky : volumineux
 an amplifier : un amplificateur
-to provide : fournir
+to provide : fournir 
 LRC-like : de type LRC
 power supply : alimentation
 a band-rejection filter : filtre réjecteur de bande
@@ -154,7 +154,7 @@ a memory : un souvenir
 close : proche
 to ring / rang / rung : sonner
 to dream / dreamt / dreamt : rêver
-to feel / felt / felt : sentir
+to feel / felt / felt : sentir 
 to feel / felt / felt  : se sentir
 to feel / felt / felt  : ressentir
 to take / took / taken : prendre
@@ -168,7 +168,7 @@ to seem : sembler
 to seem : paraître
 the evil : le mal
 to rule : gouverner
-to rule : reigner
+to rule : régner
 to rule : dominer
 to rule : régir
 to look for : chercher
@@ -181,7 +181,7 @@ senseless : stupide
 senseless : absurde
 to fill : remplir
 right now : dès maintenant
-a fireball : une boule de feu
+a fireball : une boule de feu 
 a fireball : une bombe
 it's up to you : c'est à toi
 it's up to you : il ne tient qu'à toi de
@@ -200,12 +200,12 @@ speech processing : le traitement de la parole
 to require : nécessiter
 to require : requérir
 anti-aliasing : anti-repliement
-anti-aliasing : anti-crênelage
+anti-aliasing : anti-crénelage
 a low-pass filter : un filtre passe-bas
 as well as : tout autant que
 as well as : aussi bien que
 a state : une phase
-a state : une étape
+a state : une étape 
 close : proche
 far : loin
 to trust : faire confiance
@@ -235,7 +235,7 @@ a scratch : une égratinure
 to damage : endommager
 to discover : découvrir
 endless : sans fin
-endless : infini
+endless : infini 
 to hear / heard / heard : entendre
 wonder : se demander
 to lose / lost / lost : perdre
@@ -245,7 +245,7 @@ to rob : rober
 to rob : dérober
 to sell / sold / sold : vendre
 a ship : un navire
-a merchant ship : un navire marchant
+a merchant ship : un navire marchand
 bottom : le fond
 bottomless : sans fond
 a bottomless pit : un gouffre sans fond
@@ -261,7 +261,7 @@ slavery : l'esclavage
 none : aucun
 to free : libérer
 to stand aside : se mettre de côté
-to stand aside : s'écarter
+to stand aside : s'écarter 
 to stand aside : s'effacer
 to fulfill : accomplir
 to fulfill : réaliser

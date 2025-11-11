@@ -8,7 +8,6 @@ Fast Fourier Transform : Transformée de Fourier Discrète
 Analog to Digital Converter : Convertisseur Analogique vers Numérique
 Digital to Analog Converter : Convertisseur Numérique vers Analogique
 Software Defined Radio : Radio Définie par Logiciel
-
 Primary Domain Controller : Contrôleur de Domaine Principal
 Backup Domain Controller : Contrôleur de Domaine de Secours
 Read-Only Domain Controller : Contrôleur de Domaine en Lecture Seule
@@ -17,7 +16,6 @@ Domain Name Server : Serveur de Nom de Domaine
 High-Availability : Haute-Disponibilité
 Single-Sign On : Authentification Unique
 Group Policy Object : Stratégie de groupe
-
 a DNS record : un enregistrement DNS
 scalable : évolutif
 scalable : extensible
@@ -31,7 +29,6 @@ a token : un jeton
 a security breach : une brèche de sécurité
 a remote desktop : un bureau à distance
 on-premise : sur site
-
 to compute : calculer
 a degree : un degré
 a derivative : une dérivée

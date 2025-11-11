@@ -21,7 +21,7 @@ to live up : mener la grande vie
 the ceiling : le plafond
 the floor : le sol
 of our own device : de notre propre volonté
-of our own device : de notre plein gré
+of our own device : de notre plein gré 
 to gather : rassembler
 to stab : poignarder
 steel : acier
@@ -29,7 +29,6 @@ steely : en acier
 to check out : payer la note
 to check out : crever
 to check out : claquer
-
 wireless : sans-fil
 digital : numérique
 to retranscribe : retranscrire
@@ -42,7 +41,6 @@ indeed : en effet
 no need to : pas besoin de
 to tap away : pianoter
 typescript : tapuscrit
-
 a transmitter : un transmetteur
 to appear : apparaître
 in real time : en temps réel
@@ -50,7 +48,7 @@ even better : encore mieux
 anywhere : partout
 instead of : au lieu de
 a laptop : un ordinateur portable
-at the top of : en haut de
+at the top of : en haut de 
 to pick up : capter
 to save : sauvegarder
 once back home : une fois rentré à la maison
@@ -73,13 +71,12 @@ which : que
 to deliver : livrer
 Optical Character Recognition : Reconnaissance de Charactères
 length : longueur
-
 to glitter : briller
 to glitter : scintiller
 stairway : escalier
 a store : un magasin
 a store : un entrepot
-to get / got / got : arriver
+to get / got / got : arriver 
 to mean / meant / meant : vouloir dire
 to mean / meant / meant : signifier
 a meaning : une signification
@@ -104,19 +101,18 @@ a path : un chemin
 to hum : bourdonner
 a shadow : une ombre
 at last : enfin
-at least : au moins
+at least : au moins 
 a tune : un air
 to sing another tune : changer de ton
 spring clean : nettoyage de printemps
 to lie / lie / lied : mentir
 to lie / lay / lain : reposer
 to lie / lay / lain : être allongé
-
 to rely on : compter sur
 unfortunately : malheureusement
 elderly : vieux
 old : agé
-available : disponible  
+available : disponible
 to set : fixer
 frail : faible
 frail : fragile
@@ -132,7 +128,7 @@ authentication : authentification
 a header : un en-tête
 currently : actuellement
 to match : égaler
-to match : correspondre
+to match : correspondre 
 length : longueur
 to state : énoncer
 to state : exposer
@@ -144,7 +140,6 @@ even if : même si
 to keep alive : préserver
 to keep alive : garder
 to share : partager
-
 to troubleshoot : dépanner
 to intend to : avoir l'intention de
 further : plus loin
@@ -155,7 +150,7 @@ to achieve : réaliser
 previous : précédent
 mastery : maîtrise
 to switch : commuter
-backbone : épine dorsal
+backbone : épine dorsale
 neither...nor : ni...ni
 therefore : donc
 therefore : alors
@@ -165,7 +160,7 @@ a purpose : un but
 a goal : un but
 acknowledgement : reconnaissance
 acknowledgement : constatation
-acknowledgement : accusé de réception
+acknowledgement : accusé de réception 
 anything else : quoi que ce soit d'autre
 knowledge : la connaissance
 major : principal
@@ -195,7 +190,7 @@ to gauge : mesurer
 to gauge : évaluer
 to assume : présumer
 to assume : supposer
-to have trouble : avoir des difficultés
+to have trouble : avoir des difficultés 
 wireless : sans fil
 digital : numérique
 to retranscribe : retranscrire
@@ -205,8 +200,7 @@ handwritten : manuscrite
 without : sans
 indeed : en effet
 no need to : pas besoin
-to top away : pianoter
-
+to tap away : pianoter
 to share : partager
 a reply : une réponse
 a response : une réponse
@@ -224,7 +218,7 @@ two way : bilatéral
 also : aussi
 a stage : une étape
 either...or : ou...ou
-as such : en tant que tel
+as such : en tant que tel 
 bandwidth : largeur de bande
 a feature : une caractéristique
 to belong : appartenir
@@ -254,7 +248,7 @@ while : pendant que
 to summarize : résumer
 to summarize : récapituler
 to await : être en attente
-the next few chapters : les quelques chapitres suivants
+the next few chapters : les quelques chapitres suivants 
 obvious : évident
 conversely : inversement
 conversely : réciproquement
@@ -271,7 +265,7 @@ dreadful living conditions : conditions de vie épouvantables
 high density of citizens : forte densité de population
 Civil Rights Act : Loi sur les Droits Civiques
 distrust in democracy : méfiance envers la démocratie
-deterioration of people's access to information : détérioration de l'accès des personnes à l'information
+deterioration of people's access to information : détérioration de l'accès des personnes à l'information 
 media tycoon : magnat des médias
 cover-up operations during the Vietnam war : opérations de dissimulation pendant la guerre du Vietnam
 to fear : craindre

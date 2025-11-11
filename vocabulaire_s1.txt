@@ -1,6 +1,6 @@
 a trolley : un chariot
 a trolley : caddie
-a leaflets: un prospectus
+a leaflet: un prospectus
 a stuff : un truc
 a stuff : un machin
 a statement : une affirmation
@@ -23,7 +23,7 @@ to tick : cocher
 a topic : un sujet
 to dive : plonger
 a lifeguard : un maître nageur
-delivery : livraison
+delivery : livraison 
 to be fed up with : en avoir assez de
 to be bored : s'ennuyer
 to be bored : en avoir assez
@@ -45,9 +45,9 @@ it doesn't matter to me : ça m'est égal
 a goal : un but
 an aim : un but
 a purpose : un but
-a downside : un inconvénient
+a downside : un inconvénient 
 a disadvantage : un inconvénient
-a drawback : un inconvénient 
+a drawback : un inconvénient
 advice : des conseils
 furniture : des meubles
 a piece of : un (singulier)
@@ -68,7 +68,7 @@ to breathe : respirer
 breath : la respiration
 until : jusqu'à
 to rest : se reposer
-to wake / wake / woken : se réveiller
+to wake / woke / woken : se réveiller 
 to forget / forgot / forgotten : oublier
 to sleep / slept / slept : dormir
 rather : assez
@@ -89,7 +89,7 @@ to avoid : éviter
 a loser : un perdant
 to lose / lost / lost : perdre
 to be aware : être conscient
-I don't care : je m'en fiche
+I don't care : je m'en fiche 
 I don't care : je m'en moque
 to seem : sembler
 to seem : paraître
@@ -106,8 +106,8 @@ a statement : une affirmation
 to be interested in : être intéressé par
 a course : un cours
 to do a paper round : faire une tournée de livraison de journaux
-to wast one's time : gâcher son temps
-to plan to : prévoir
+to waste one's time : gâcher son temps
+to plan to : prévoir 
 to plan to : projeter
 to plan to : planifier de
 bilingual : bilingue
@@ -118,7 +118,7 @@ an audience : un auditoire
 an audience : public
 to invest : investir
 an electrician : un électricien
-usual : habituel 
+usual : habituel
 unusual : inhabituel
 a desk : un bureau
 a fault : une panne
@@ -131,13 +131,13 @@ a land : une terre
 a pathway : un sentier
 the back : le dos
 the earth : la terre
-by : à côté de
+by : à côté de 
 to rely on : compter sur
 somewhere : quelque part
 something : quelque chose
 everything : tout
 to fall / fell / fallen : tomber
-tired : fatigué
+tired : fatiqué
 to walk : marcher
 empty : vide
 full : plein
@@ -150,12 +150,12 @@ to use : utiliser
 to teach / taught / taught : enseigner
 to learn / learnt / learnt : apprendre
 such as : telle que
-CAD (computer aided design) : conception assisté par ordinateur (CAO)
+CAD (computer aided design) : conception assistée par ordinateur (CAO)
 to design : concevoir
 a race : une course
 current : actuel
 current : en cours
-an amount : une somme
+an amount : une somme 
 an amount : une quantité
 to hold / held / held : détenir
 to hold / held / held : posséder
@@ -164,15 +164,15 @@ a cash dispenser : un distributeur de billet
 to dispense : distribuer
 weather conditions : les conditions météo
 a travel agency : une agence de voyage
-a travel agent : un agent de voyage 
+a travel agent : un agent de voyage
 to find out about something : se renseigner sur quelque chose
 thanks to : grâce à
 to display : afficher
-LCD (liquid crystal display) : affichage à cristaux liquide
+LCD (liquid crystal display) : affichage à cristaux liquides
 a flight : un vol
 to switch on : allumer
 to switch off : éteindre
-a microwave oven : un four à micro-ondes
+a microwave oven : un four à micro-ondes 
 anything : n'importe quoi
 to manage : gérer
 a customer : un client
@@ -203,14 +203,14 @@ early : tôt
 late : tard
 a cedar : un cêdre
 asleep : endormi
-a heap : un tas
+a heap : un tas 
 a heap : un amas
 a deadline : limite
 to squeeze : serrer
 to squeeze : presser
 to squeeze : étreindre
 a headline : un titre
-to tidy : ranfer
+to tidy : ranger
 a toy : un jouet
 salt : le sel
 salty : salé
@@ -229,7 +229,7 @@ unholy : profane
 a cloud : un nuage
 to light / lit / lit : allumer
 above : au dessus
-a storm chaser : un chasseur de tempêtes
+a storm chaser : un chasseur de tempêtes 
 mainly : principalement
 spring / summer / autumn / winter : printemps / été / automne / hiver
 actually : en fait
@@ -239,7 +239,7 @@ lightning : les éclairs
 seasons : les saisons
 uncertainty : incertitude
 to achieve : réaliser
-intringuing : fascinant
+intriguing : fascinant
 scheming : intriguant
 to get involved : se trouver impliqué
 to notice : remarquer
@@ -254,7 +254,7 @@ a blade : une lame
 a path : un chemin
 a size : une taille
 a shape : une forme
-to tear : décliner
+to tear : déchirer 
 to fold : plier
 unfold : déplier
 a seat : un siège
@@ -285,7 +285,7 @@ to remain : rester
 within : au sein de
 restless : agité
 alone : seul
-narrow : étroit
+narrow : étroit 
 a cobblestone : un pavé
 beneath : sous
 beneath : dessous
@@ -312,14 +312,14 @@ to bow : s'incliner
 a warning : un avertissement
 a tenement : un immeuble
 to whisper : murmurer
-to whisper : chuchoter
+to whisper : chuchoter 
 subway : le métro
 underground : le métro
 to seem : sembler
 to seem : paraître
-anytime : à chaque fois 
-seisure : le loisir
-seisure : les temps libres
+anytime : à chaque fois
+leisure : le loisir
+leisure : les temps libres
 a wedding : un mariage
 damn : les fichus
 damn : les satanés
@@ -342,7 +342,7 @@ a lawn chair : un chaise longue
 obvious : évident
 obviously : évidemment
 to gossip : faire des ragots
-to gossip : faire des commérages
+to gossip : faire des commérages 
 to top : dépasser
 to top : surclasser
 to look like : ressembler (la vue)
@@ -357,7 +357,7 @@ a chore : une corvée
 to engage in : s'adonner à
 nagging : le harcèlement
 to be involved : être impliqué
-to depend : approfondir
+to deepen : approfondir
 awesome : super
 awesome : génial
 awesome : extraordinaire
@@ -374,7 +374,7 @@ instead : à la place
 instead of : au lieu de
 to reduce : réduire
 to reveal : révéler
-healthy : en bonne santée
+healthy : en bonne santé
 ability : capacité
 relatives : la famille
 relatives : les proches
@@ -397,7 +397,7 @@ a mark : une trace
 a voice : une voix
 a choice : un choix
 till : jusqu'à
-until : jusqu'à
+until : jusqu'à 
 to lift someone up : aider quelqu'un à se relever
 fat : la graisse
 fat : gros
@@ -421,7 +421,7 @@ expectation of life : l'espérance de vie
 to be likely to : avoir de forte chances de
 to complain : se plaindre
 a garment : un vêtement
-a purpose : un but
+a purpose : un but 
 numberless : innombrable
 although : bien que
 a slimmer : une personne qui fait un régime
@@ -441,7 +441,7 @@ a loan : un emprunt
 earnings : les revenus
 earnings : les gains
 earnings : salaires
-consummer society : société de consommation
+consumer society : société de consommation
 misfit : inadapté
 significant : significatif
 abroad : à l'étranger
@@ -449,7 +449,7 @@ a bank account : un compte bancaire
 according to : selon
 according to : d'après
 average : une moyenne
-average : moyen
+average : moyen 
 average : moyenne
 despite : en dépit de
 to take steps : prendre des mesures
@@ -470,14 +470,14 @@ to own : posséder
 to roll the dice : lancer des dés
 a crowd : une foule
 a castle : un château
-a piller : un pilier
+a pillar : un pilier
 salt : le sel
 a sword : une épée
 a shield : un bouclier
 once : une fois
-wiched : mauvais
-wiched : méchant
-wild : sauvage
+wicked : mauvais
+wicked : méchant
+wild : sauvage 
 silver : l'argent
 a puppet : une marionnette
 a string : une ficelle
@@ -488,7 +488,6 @@ fear : la peur
 to feel / felt / felt : sentir
 to feel / felt / felt : ressentir
 to shatter : fracasser
-
 moreover : de plus
 furthermore : de plus
 however : toutefois
@@ -507,7 +506,7 @@ so : par conséquent
 therefore : donc
 therefore : alors
 therefore : par conséquent
-given that : étant donné que
+given that : étant donné que 
 seeing that : étant donné que
 fortunately : heureusement
 unfortunately : malheureusement
@@ -531,7 +530,7 @@ to make matters worse : pour aggraver les choses
 but the worst of all : mais le pire de tout
 on the one hand : d'un côté
 on the other hand : de l'autre côté
-on the face of it : de prime abord
+on the face of it : de prime abord 
 on the face of it : à première vue
 but on second thoughts : mais en y réfléchissant bien
 to sum up : pour résumer
@@ -542,20 +541,20 @@ even : même
 even if : même si
 despite : en dépit de
 in spite of : en dépit de
-nevertheless : néanmoins 
+nevertheless : néanmoins
 nonetheless : néanmoins
 on the contrary : au contraire
 otherwise : autrement
-unless : a condition que
+unless : à moins que
 as long as : du moment que
 except : excepté
 except : sauf
 as if : comme si
-provided : a condition que
+provided : à condition que
 without : sans
 almost : presque
 nearly : presque
 after all : après tout
 for example : par exemple
-for instance : par exemple
+for instance : par exemple 
 as usual : comme d'habitude
