@@ -1,14 +1,18 @@
 # RT English Vocabulary
 *Inspiré du RT English Vocabulary de PoissonSimeon*
+*Modifié du RT English Vocabulary de **LeCDrom***
 
 ## 📜 Description
 Permet de s'entraîner à la traduction anglais/français et inversement en donnant la traduction appropriée pour les mots ou groupes de mots qui s'affichent.
+Soit en éxéctutant le programme soit d'accéder directement sur le site https://blvcki.github.io/RT-English-Vocabulary/
+
 
 ## 🔎 Languages et technologies utilisées
 - Programme réalisé en Python 3
 - Utilisation de ressources externes
   - Bibliothèque random
   - Ouverture de fichiers textes
+- HTML / Javascript / CSS
 
 ## ⚙️ Fonctionnalités principales
 - Le programme demande aléatoirement à l'utilisateur la traduction anglais/français d'un mot provenant d'une ligne aléatoire.
