@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz de Vocabulaire</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="quiz-container">
+        <h1>Quiz de Vocabulaire</h1>
+
+        <div class="settings">
+            <fieldset>
+                <legend>Listes de vocabulaire (S1-S3 + SAE)</legend>
+                <div class="vocab-selection">
+                    <div>
+                        <input type="checkbox" id="cb-sae24" checked>
+                        <label for="cb-sae24">SAE 2.4</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="cb-s1" checked>
+                        <label for="cb-s1">S1</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="cb-s2" checked>
+                        <label for="cb-s2">S2</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="cb-s3" checked>
+                        <label for="cb-s3">S3 (Hôtel California)</label>
+                    </div>
+                </div>
+            </fieldset>
+
+            <fieldset>
+                <legend>Autres-mots</legend>
+                <div class="vocab-selection">
+                    <div>
+                        <input type="checkbox" id="cb-liaisons">
+                        <label for="cb-liaisons">Liaisons</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="cb-vocabulaire">
+                        <label for="cb-vocabulaire">Vocabulaire</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="cb-vocabulaire-liaisons">
+                        <label for="cb-vocabulaire-liaisons">Vocabulaire-liaisons</label>
+                    </div>
+                </div>
+            </fieldset>
+
+            <fieldset>
+                <legend>Modes (Lelièvre)</legend>
+                <div class="mode-selection">
+                    <input type="checkbox" id="smart-mode" checked>
+                    <label for="smart-mode">Mode intelligent (répéter les erreurs)</label>
+                </div>
+            </fieldset>
+        </div>
+
+        <button id="update-list-btn">Mettre à jour / Recommencer</button>
+
+        <div class="score-display">
+            Score : <span id="score-percent">0</span>%
+            (<span id="score-correct">0</span>/<span id="score-total">0</span>)
+        </div>
+
+        <div class="question-area">
+            <p id="prompt-type">Traduction en...</p>
+            <h2 id="word-prompt">...</h2>
+        </div>
+
+        <div class="input-area">
+            <input type="text" id="answer-input" placeholder="Votre réponse...">
+            <button id="submit-btn">Valider</button>
+        </div>
+
+        <div class="feedback-area">
+            <p id="feedback-text"></p>
+            <p id="correct-answers"></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -33,7 +33,6 @@ to check out : claquer
 wireless : sans-fil
 digital : numérique
 to retranscribe : retranscrire
-to wonder : se demander
 a wonder : une merveille
 a marvel : une merveille
 to switch : passer de
@@ -89,6 +88,7 @@ by the brook : près du ruisseau
 to think / thought / thought : penser
 a thought : une pensée
 misgiven : rempli de doute
+to wonder : se demander
 a ring : un anneau
 smoke : la fumée
 to whisper : chuchoter
@@ -174,8 +174,8 @@ neighbor : voisin
 to guess : deviner
 to flood : inonder
 to flood : noyer
-to forward : faire suivre
-to forward : expédier
+forward : faire suivre
+forward : expédier
 whenever : à chaque fois que
 already : déjà
 to skew : biaiser
@@ -196,8 +196,16 @@ to gauge : évaluer
 to assume : présumer
 to assume : supposer
 to have trouble : avoir des difficultés
+wireless : sans fil
 digital : numérique
 to retranscribe : retranscrire
+a wonder : une merveille
+a marvel : une merveille
+handwritten : manuscrite
+without : sans
+indeed : en effet
+no need to : pas besoin
+to top away : pianoter
 
 to share : partager
 a reply : une réponse
